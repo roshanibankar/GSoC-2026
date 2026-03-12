@@ -31,6 +31,7 @@ Sergei Gleyzer (University of Alabama)
 Please DO NOT contact mentors directly by email. Questions should instead be directed to ml4-sci@cern.ch which is forwarded to mentors. To submit your proposal, CV, and test task solutions, please use this Google form.
 
 Links
+
 Paper 1- https://arxiv.org/pdf/2409.16052
 
 Paper 2- https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_89.pdf
