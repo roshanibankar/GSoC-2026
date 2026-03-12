@@ -41,7 +41,5 @@ Paper 3- https://arxiv.org/abs/2404.02905
 Paper 4- https://arxiv.org/abs/2506.09985
 
 
-Corresponding Project
-CMS
-Participating Organizations
-Alabama
+Corresponding Project- CMS
+Participating Organizations- Alabama
